@@ -1,0 +1,13 @@
+@charset "utf-8";
+ 
+$color-body: #FAF9F5;
+$color-text: #4D220F;
+ 
+body {
+  background-color: $color-body;
+  color: $color-text;
+
+    h1 {
+     color:red;
+    }
+}
